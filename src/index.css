@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Handjet:wght@300;400&family=Quicksand:wght@400;600&family=Roboto:wght@300;400&display=swap');
+
+:root {
+  font-family: 'Handjet', sans-serif;
+  font-size: 2rem;
+
+  background-color: #0b0b10;
+  color: #C0EEF2;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+html, body  {
+  margin: 0;
+  padding: 0;
+}
+
+
+.container {
+  border: #C0EEF2 2px solid;
+  border-radius: 0.8rem;
+}
+
+#vid {
+  width: 100%;
+  position: fixed;
+  filter: brightness(0.6);
+  translate: 0% -8%;
+}

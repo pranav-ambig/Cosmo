@@ -1,0 +1,12 @@
+.navbar-ctn > h2 {
+    text-align: right;
+    cursor: pointer;
+    width: min-content;
+    margin-left: auto;
+    /* display: flex;
+    justify-content: space-between; */
+}
+
+#title {
+    font-size: 2.2rem;
+}
